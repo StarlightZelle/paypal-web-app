@@ -117,7 +117,7 @@
 				<configuration>
 					<source>${jdk.version}</source>
 					<target>${jdk.version}</target>
-				</configuration>
+		                 </configuration>
 			</plugin>
 			
 			<plugin>
@@ -135,7 +135,7 @@
 					<webApp>
 						<contextPath>/maven-web-application</contextPath>
 					</webApp>
-				</configuration>
+			         </configuration>
 			</plugin>
 			
 			<plugin>
